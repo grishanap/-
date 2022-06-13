@@ -1,0 +1,23 @@
+<nav>
+                <ul class="nav_links">
+                    <li><a href="#">О PECHOTE</a></li>
+                    <li>
+                        <a href="#">КАТАЛОГ</a>
+                        <ul class="s-links">
+                            <li><a href="#">Хиты продаж</a></li>
+                            <li><a href="#">Скидки</a></li>
+                            <li><a href="#">Новинки</a></li>
+                            <li><a href="#">Колбасные и мясные изделия</a></li>
+                            <li><a href="#">Молочные продукты</a></li>
+                            <li><a href="#">Морепродукты</a></li>
+                            <li><a href="#">Пиво</a></li>
+                            <li><a href="#">Замороженные продукты</a></li>
+                            <li><a href="#">Мёд</a></li>
+                            <li><a href="#">Свежие овощи</a></li>
+                            <li><a href="#">Свежие фрукты</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="#">НАШИ МАГАЗИНЫ</a></li>
+                    <li><a href="#">КОНТАКТЫ</a></li>
+                </ul>
+            </nav>
